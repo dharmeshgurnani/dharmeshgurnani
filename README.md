@@ -18,7 +18,7 @@ Take a look at my [Portfolio](https://dharmeshgurnani.github.io/portfolio)
 
 I am also a prolific open-source enthusiast, and all of my personal projects are built in the open.
 
-You can often find me prattling about all sorts of things over on [Twitter](https://twitter.com/dharmeshgurnani).
+You can often find me prattling about all sorts of things over on   [![Twitter Badge](https://img.shields.io/badge/-@dharmeshgurnani-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dharmeshgurnani)](https://twitter.com/dharmeshgurnani)  [![Linkedin Badge](https://img.shields.io/badge/-dharmeshgurnani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dharmeshgurnani/)](https://www.linkedin.com/in/dharmeshgurnani/)
 
 ---
 
