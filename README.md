@@ -25,20 +25,21 @@ You can often find me prattling about all sorts of things over on   [![Twitter B
 ---
 
 **languages and tools:**  
-
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"/></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"/></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"/></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"/></code>
 <code><img height="50" src="https://uploads-ssl.webflow.com/60eecfcc030e0e12979ffefc/613a2ecf8879f77018f953cd_Frame%20206%406x-p-500.png" alt="SFCC"/></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"/></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></code>
  
-
-
+<!-- ![](https://raw.githubusercontent.com/dharmeshgurnani/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/dharmeshgurnani/github-stats-transparent/output/generated/languages.svg)
+ -->
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dharmeshgurnani&show_icons=true&theme=gotham" alt="dharmeshgurnani" /> -->
 	
