@@ -26,6 +26,7 @@ You can often find me prattling about all sorts of things over on   [![Twitter B
 
 **languages and tools:**  
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"/></code>
+<code><img height="50" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" title="VS Code" alt="VS Code"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"/></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"/></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
