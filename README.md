@@ -16,7 +16,7 @@
 
 ---
 
-Please take a look at my [Portfolio](https://dharmeshgurnani.github.io/portfolio)
+Please take a look at my [Portfolio](https://www.dharmeshgurnani.com)
 
 I love sharing my knowledge with others, I am also a prolific open-source enthusiast, and all my projects are built in the open.
 
