@@ -2,35 +2,34 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dharmeshgurnani.dharmeshgurnani)
 
-🚀 **Salesforce Commerce Cloud Engineer | Full-Stack Developer | System Design Enthusiast**
+🚀 **Full Stack Design Engineer | SFCC Solutions Architect | AI-Augmented Builder**
 
-I design and build scalable B2C commerce systems with a strong focus on performance, architecture, and real-world business impact.
+I bridge the gap between high-performance frontend architecture, fluid UI/UX design, and scalable enterprise commerce systems. By day, I design and build robust B2C commerce solutions using **Salesforce Commerce Cloud (SFCC)**. By night, I experiment with lightweight UI libraries, custom web performance plugins, and intelligent automation.
 
-Currently working deeply with Salesforce Commerce Cloud (SFCC) while expanding into advanced System Design and distributed architectures.
+I treat AI as a collaborative teammate—leveraging advanced LLM tooling, local models (Llama/Qwen), and autonomous coding agents to accelerate development pipelines, optimize code performance, and build smarter, faster workflows.
 
 ---
 
 ### 💼 What I Do
 
-- 🛒 Architect and build high-performance eCommerce solutions (SFCC)
-- ⚙️ Develop full-stack web applications (Node.js, React, GraphQL)
-- 🧠 Design scalable backend systems
-- 🎨 Explore UX/UI design principles for better product experience
-- 🌍 Contribute actively to Open Source and collaborative tech projects
+- 🛒 **E-Commerce Architecture:** Design and scale high-availability SFCC solutions, data pipelines, and core checkout experiences.
+- 🎨 **Frontend & UI Engineering:** Craft fluid, highly performant web interfaces, modular UI components, and smooth animations (like scroll-driven interactions via the Intersection Observer API).
+- 🤖 **AI-Augmented Development:** Integrate local LLMs and AI coding agents into my daily engineering cycle to automate tasks and streamline building in public.
+- 🧠 **System Design & Performance:** Optimize web assets, analyze distributed systems, and build with an eye toward ultimate efficiency.
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Currently Exploring
 
-- Advanced System Design  
-- Distributed systems patterns  
-- Performance optimization strategies  
+- Advanced distributed system patterns  
+- Local AI model orchestration & function calling  
+- Core web performance optimization strategies  
 
 ---
 
 ### 🤝 Let’s Connect
 
-I enjoy sharing knowledge, building in public, and collaborating with ambitious engineers and builders.
+I enjoy sharing knowledge, building in public, and collaborating with ambitious engineers, creators, and builders.
 
 📫 Reach me at: **dharmeshgurnani@protonmail.com**
 
@@ -38,8 +37,8 @@ I enjoy sharing knowledge, building in public, and collaborating with ambitious 
 
 ### 🌐 Portfolio
 
-Take a look at my work:  
-👉 https://www.dharmeshgurnani.com
+Take a look at my work, projects, and experiments:  
+👉 [https://www.dharmeshgurnani.com](https://www.dharmeshgurnani.com)
 
 ---
 
